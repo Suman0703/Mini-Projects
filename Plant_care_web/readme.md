@@ -97,3 +97,11 @@ To run this project on your local machine, you'll need a server environment like
 
 ### 3. Image Placeholders
 <img width="1917" height="1023" alt="Screenshot 2025-11-03 221727" src="https://github.com/user-attachments/assets/678fe830-9996-470b-afc9-5758a79569b1" />
+
+<img width="1919" height="1020" alt="Screenshot 2025-11-03 221913" src="https://github.com/user-attachments/assets/a1f8e14f-bb0e-469d-ad65-0ac2dcc9b95c" />
+
+<img width="1919" height="1018" alt="Screenshot 2025-11-03 221951" src="https://github.com/user-attachments/assets/c2d195b1-bad7-447c-9a2a-c82baea5b526" />
+
+<img width="1909" height="1020" alt="Screenshot 2025-11-03 195322" src="https://github.com/user-attachments/assets/ef20b28f-e796-49f6-9837-d26c9f88bf81" />
+
+<img width="1919" height="1021" alt="Screenshot 2025-11-03 195725" src="https://github.com/user-attachments/assets/9922c7f3-9f06-44c6-a870-18cd433026c9" />
