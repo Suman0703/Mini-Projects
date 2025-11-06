@@ -96,4 +96,4 @@ To run this project on your local machine, you'll need a server environment like
     * **`http://localhost/Plant_care_web/`**
 
 ### 3. Image Placeholders
-
+<img width="1917" height="1023" alt="Screenshot 2025-11-03 221727" src="https://github.com/user-attachments/assets/678fe830-9996-470b-afc9-5758a79569b1" />
